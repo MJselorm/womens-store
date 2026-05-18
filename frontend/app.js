@@ -1,5 +1,5 @@
 // Frontend Logic for ChicCloset Boutique
-const API_URL = 'http://localhost:8000/api'; // FastAPI backend URL
+const API_URL = 'https://womens-store.onrender.com/api'; // FastAPI backend URL
 let cart = [];
 let allProducts = [];
 
